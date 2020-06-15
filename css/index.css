@@ -130,6 +130,16 @@ nav a{
     border-bottom: 1px dashed black;
 }
 
+.middle-content-features{
+	width: 50%;
+	border-bottom: 1px dashed black;
+	margin: 10px;
+}
+
+.features{
+	display: flex;
+}
+
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
@@ -152,6 +162,14 @@ nav a{
     justify-content: center;
 }
 
+button{
+	margin: 20px 0;
+	padding: 5px 15px;
+	background-color: white;
+	border-radius: 10px;
+	border-style: solid;
+
+}
                    															/** [ ] box1: `teal`
 																								* [ ] box2: `gold`
 																								* [ ] box3: `cadetblue`
