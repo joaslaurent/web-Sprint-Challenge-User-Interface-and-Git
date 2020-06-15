@@ -50,7 +50,7 @@ Horizontal
 
 5. Explain why git is valuable to a team of developers.
 
-
+It helps preserve version of files, saves copies of updates, and you can invite collaborators to your projects.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
